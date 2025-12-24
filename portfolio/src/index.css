@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-cyber-black text-white font-inter overflow-x-hidden;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-orbitron;
+  }
+}
+
+@layer utilities {
+  .text-glow {
+    text-shadow: 0 0 10px currentColor;
+  }
+  .box-glow {
+    box-shadow: 0 0 10px currentColor;
+  }
+  .cyber-border {
+    @apply border border-neon-blue/50 shadow-neon-blue hover:shadow-neon-blue/80 transition-all duration-300;
+  }
+}
