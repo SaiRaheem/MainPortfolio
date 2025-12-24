@@ -1,16 +1,35 @@
-# React + Vite
+# ⚡ Cyberpunk Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A futuristic, neon cyberpunk–themed personal portfolio showcasing my skills, projects, and interests as a **Full Stack Developer**.  
+Designed to feel like a **hacker-style system dashboard** with smooth animations and interactive sections.
 
-Currently, two official plugins are available:
+🌐 **Live Demo:** https://<your-vercel-project>.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🧠 Cyberpunk / Neon UI with smooth animations
+- ⚡ Built with React + Vite for high performance
+- 🧭 Interactive navigation (Home, About, Skills, Projects, Interests, Contact)
+- 🛠 Detailed Skills & Projects sections
+- 📬 Fully working Contact form
+- ❤️ Interests showcase (Calisthenics, Cricket, Chess)
+- 📱 Fully responsive (Mobile + Desktop)
+- 🚀 Deployed on Vercel
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+
+**Frontend**
+- React
+- Vite
+- JavaScript (ES6+)
+- Tailwind CSS / CSS3
+
+**Tools & Platform**
+- Git & GitHub
+- Vercel (Deployment)
+
+---
